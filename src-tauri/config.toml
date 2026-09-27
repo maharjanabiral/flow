@@ -1,0 +1,7 @@
+# Push-to-talk hotkey.
+# Supported keys: F1-F12, ScrollLock, Pause, Insert
+# Supported modifiers: Shift, Ctrl, Alt (can combine, e.g. "Ctrl+Alt+F9")
+hotkey = "Ctrl+Alt+Space"
+
+# Path to the whisper.cpp GGML model file.
+model_path = "models/ggml-base.en.bin"
